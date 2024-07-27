@@ -10,13 +10,13 @@ function ExtraTox() {
       <span className={styles.h}>Sponsors</span>
       <div className={styles.sponsors}>
         <div className={styles.bg}>
-          <a href="https://t.me/TMWAD" className={styles.text}>
+          <a href="https://t.me/Tcp_bots" className={styles.text}>
             <img src='./tmwad.png' alt='TMWAD IMG' width={200} height={50}/>
           </a>
         </div>
       </div>
     <div className={styles.bgt}>
-      <a href="https://www.buymeacoffee.com/kalanakt" className={styles.text}>
+      <a href="https://www.buymeacoffee.com/mrprovider" className={styles.text}>
         Become Sponsor +
       </a>
     </div>
