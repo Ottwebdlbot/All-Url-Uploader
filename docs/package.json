@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalanakt/All-Url-Uploader.git"
+    "url": "git+https://github.com/ottwebdlbot/All-Url-Uploader.git"
   },
-  "author": "Kalanakt <e19198@eng.pdn.ac.lk>",
+  "author": "Mr provider <e19198@eng.pdn.ac.lk>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kalanakt/All-Url-Uploader/issues"
   },
-  "homepage": "kalanakt.github.io/all-url-uploader",
+  "homepage": "ottwebdlbot.github.io/all-url-uploader",
   "dependencies": {
     "@octokit/types": "^8.0.0",
     "next": "^13.0.6",
